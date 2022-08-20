@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @masanganise
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Full Stack Web Development.
-- 💞️ I’m looking to collaborate on Back-End Development in particular Java programming.
+- 👀 I’m interested in Data Analytics & Web Development.
+- 🌱 I’m currently learning Data Analytics.
+- 💞️ I’m looking to collaborate on Web development.
 - 📫 You can reach me via email (nmasanganise@gmail.com) or on Twitter (@Gutu_Engineer)
 
 <!---
